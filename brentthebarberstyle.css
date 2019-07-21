@@ -1,0 +1,17 @@
+P {text-align: center}
+
+br {
+	line-height: -100%
+}
+
+.name {text-align: center;
+  font-family: "Lobster", sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+
+.descriptor {text-align: center;
+  font-family: "Lobster", sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+
+.contact-text {text-align: center;
+  font-family: "Lobster", sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
